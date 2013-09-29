@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isEmpty()
+comment0.text=\n\ isEmpty\n\ Method\ Returns\ True\ if\ queue\ is\ empty.\ \n\ @return\ Returns\ true\ if\ queue\ is\ empty.\ \n
+comment1.params=priority\ element
+comment1.target=void\ enqueue(java.lang.Comparable,\ java.lang.Object)
+comment1.text=\n\ enqueue\n\ Takes\ a\ Comparable\ key\ and\ an\ Object\ and\ places\ them\ and\ places\ \n\ them\ in\ the\ appropriate\ location\ in\ the\ priority\ queue.\ Comparable\ \n\ is\ given\ as\ a\ key\ to\ give\ ordinal\ value\ to\ the\ priority\ queue.\n\ \n\ @param\ priority\ -\ the\ assigned\ priority\ of\ the\ object\ being\ put\ \n\ into\ the\ queue.\n\ @param\ element\ -\ the\ entity\ being\ added\ to\ the\ queue.\ \n
+comment2.params=
+comment2.target=void\ dequeue()
+comment2.text=\n\ dequeue\n\ Removes\ the\ element\ with\ the\ highest\ priority\ from\ the\ queue.\ \n\ Nothing\ is\ returned.\ \n\ @throws\ EmptyQueueException\ if\ an\ attempt\ is\ made\ to\ dequeue\ when\n\ the\ priority\ queue\ is\ already\ empty\n
+comment3.params=
+comment3.target=java.lang.Object\ front()
+comment3.text=\n\ front\n\ Returns\ an\ object\ corresponding\ to\ the\ front\ of\ the\ queue.\ \n\ That\ is,\ the\ object\ with\ the\ highest\ priority.\ \n\ @return\ The\ object\ stored\ with\ the\ highest\ priority\n\ @throws\ EmptyQueueException\ if\ an\ attempt\ is\ made\ to\ \n\ get\ the\ front\ object\ if\ the\ priority\ queue\ is\ already\ \n\ empty.\ \n
+numComments=4

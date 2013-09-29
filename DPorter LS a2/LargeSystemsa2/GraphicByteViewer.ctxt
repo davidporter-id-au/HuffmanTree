@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=GraphicByteViewer(java.io.File)
+comment0.text=\n\ Construct\ a\ new\ viewer\ frame\ for\ the\ given\ file\n\ \n\ @param\ f\ file\ to\ view\n
+comment1.params=f
+comment1.target=byte[]\ readBytes(java.io.File)
+comment1.text=\n\ Read\ the\ contents\ of\ a\ file\ as\ a\ byte\ array.\n\ Note\:\ reads\ the\ whole\ file\ in\ one\ go.\ \ This\ code\n\ is\ for\ demonstration\ purposes\ only.\ This\ won't\ \n\ work\ for\ large\ files.\n\ \n\ @param\ f\ the\ file\ to\ read\n\ @return\ contents\ of\ f\ as\ array\ of\ bytes\n
+comment2.params=a
+comment2.target=java.lang.String\ bytesToString(byte[])
+comment2.text=\n\ Convert\ a\ byte\ array\ into\ a\ string\ representing\ each\ byte\ in\ the\ array\ on\ a\ line\n\n\ @param\ a\ input\ byte\ array\ to\ display\n\ @return\ String\ representation\ of\ a\n
+comment3.params=s
+comment3.target=java.lang.String\ showFormat(java.lang.String)
+comment3.text=\n\ Creates\ a\ new\ string\ showing\ whitespace\ formatting\ characters\ visibly\n\ \n\ @param\ s\ string\ to\ format\n\ @return\ formatted\ string\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

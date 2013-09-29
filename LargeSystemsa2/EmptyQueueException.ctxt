@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EmptyQueueException()
+comment0.text=\n\ Constructor\n\ Creates\ the\ exception.\ No\ parameters\ required.\ \n
+numComments=1
